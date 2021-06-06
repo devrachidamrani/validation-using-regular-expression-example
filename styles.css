@@ -29,7 +29,6 @@ input[type='text'] {
 }
 
 .message {
-  color: red;
   margin: 2rem 0;
   text-align: center;
   width: 70%;
@@ -37,4 +36,8 @@ input[type='text'] {
 
 .good {
   color: green;
+}
+
+.bad {
+  color: red;
 }
